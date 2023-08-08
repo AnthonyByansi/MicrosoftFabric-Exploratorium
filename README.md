@@ -19,6 +19,13 @@
 9. [Collaborative Learning and Peer Engagement](#collaborative-learning-and-peer-engagement)
 10. [Continuous Learning and Updates](#continuous-learning-and-updates)
 
+
+## Repository Structure 📁
+
+- Each section contains detailed markdown files and resources.
+- Directories are organized by topics for easy navigation.
+- Tutorials, examples, notebooks, and guides are provided to enhance your learning experience.
+
 ## Introduction 🌟
 
 Get started with an overview of Microsoft Fabric's all-in-one analytics solution. Learn about its unified platform for data movement, data science, real-time analytics, and more. Explore the benefits of using Microsoft Fabric for your analytics needs.
