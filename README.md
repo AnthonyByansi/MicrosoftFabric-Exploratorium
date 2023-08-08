@@ -1,4 +1,8 @@
-# MicrosoftFabric-Exploratorium 📊
+<div align="center">
+  <img src="Introduction/images/fabric_logo.png" alt="Microsoft Fabric Exploratorium" width="200"/>
+  <h1>MicrosoftFabric-Exploratorium</h1>
+  <p>Your Ultimate Guide to Mastering End-to-End Analytics with Microsoft Fabric</p>
+</div>
 
 Welcome to the MicrosoftFabric-Exploratorium repository! 🚀 This comprehensive educational resource is designed to help you master end-to-end analytics using Microsoft Fabric. Whether you're a beginner or an experienced data professional, you'll find a wealth of information, tutorials, and resources to enhance your skills and understanding of Microsoft Fabric's capabilities.
 
