@@ -4,7 +4,7 @@
   <p>Your Ultimate Guide to Mastering End-to-End Analytics with Microsoft Fabric</p>
 </div>
 
-Welcome to the MicrosoftFabric-Exploratorium repository! 🚀 This comprehensive educational resource is designed to help you master end-to-end analytics using Microsoft Fabric. Whether you're a beginner or an experienced data professional, you'll find a wealth of information, tutorials, and resources to enhance your skills and understanding of Microsoft Fabric's capabilities.
+🚀 This comprehensive educational resource is designed to help you master end-to-end analytics using Microsoft Fabric. Whether you're a beginner or an experienced data professional, you'll find a wealth of information, tutorials, and resources to enhance your skills and understanding of Microsoft Fabric's capabilities.
 
 ## Table of Contents 📑
 
