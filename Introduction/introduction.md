@@ -18,6 +18,30 @@ Microsoft Fabric is a comprehensive end-to-end analytics platform designed to fo
 
 - **Business Intelligence:** Fabric is designed to integrate seamlessly with essential business intelligence tools, empowering organizations to make data-driven decisions.
 
+```mermaid
+graph LR
+    A[Microsoft Fabric] --> B(Data Engineering)
+    A --> C(Data Integration)
+    A --> D(Data Warehousing)
+    A --> E(Real-time Analytics)
+    A --> F(Data Science)
+    A --> G(Business Intelligence)
+
+    B --> Z{ }
+    C --> Z
+    D --> Z
+    E --> Z
+    F --> Z
+    G --> Z
+
+    Z --> H(Collaboration)
+    Z --> I(Comprehensive Solution)
+    Z --> J(Simplicity)
+    Z --> K(Scalability)
+
+```
+---
+
 ## Why Choose Microsoft Fabric?
 
 - **Collaboration:** Fabric's integrated environment bridges the gap between data professionals and business stakeholders, fostering collaboration and promoting a unified approach to data projects.
