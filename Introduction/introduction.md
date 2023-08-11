@@ -40,6 +40,7 @@ graph LR
     Z --> K(Scalability)
 
 ```
+
 ---
 
 ## Why Choose Microsoft Fabric?
