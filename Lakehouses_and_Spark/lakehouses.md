@@ -33,6 +33,8 @@ At the heart of Microsoft Fabric lies the Lakehouse, built on top of the OneLake
 
 Consider a scenario where your organization has traditionally used a data warehouse to house structured data from transactional systems, including order history, inventory levels, and customer information. However, alongside these structured datasets, you've also accumulated unstructured data from sources like social media, website logs, and external providers. Managing and analyzing this diverse data using your current data warehouse infrastructure has proven challenging.
 
+---
+
 In response to this challenge, your company decides to enhance its decision-making capabilities by performing analysis on data from various formats and sources. For this purpose, your organization adopts Microsoft Fabric as the solution of choice.
 
 Microsoft Fabric empowers your organization to efficiently process, manage, and analyze both structured and unstructured data through its cohesive lakehouse architecture.
@@ -40,6 +42,39 @@ Microsoft Fabric empowers your organization to efficiently process, manage, and 
 ## Explore the Microsoft Fabric Lakehouse
 
 A Lakehouse is structured as a database and is constructed on the foundation of a data lake using Delta format tables. This innovative approach fuses the SQL-driven analytical capabilities of a traditional relational data warehouse with the unmatched flexibility and scalability of a data lake. Lakehouses possess the remarkable capacity to store data in various formats, accommodating a wide spectrum of analytics tools and programming languages. Given their cloud-based nature, lakehouses boast the advantages of automatic scalability, high availability, and robust disaster recovery mechanisms.
+
+```mermaid
+flowchart TB
+  subgraph "Microsoft Fabric"
+    subgraph "Create Lakehouse"
+      Create_Lakehouse --> Load_Data
+      Create_Lakehouse --> Data_Ingestion
+      Create_Lakehouse --> Create_Shortcuts
+    end
+
+    subgraph "Data Sources"
+      Load_Data --> Local_Files
+      Load_Data --> Databases
+      Load_Data --> APIs
+    end
+
+    subgraph "Automated Ingestion"
+      Data_Ingestion --> Data_Factory
+      Data_Ingestion --> Dataflows
+    end
+
+    subgraph "External Sources"
+      Create_Shortcuts --> Data_Lake_Store_Gen2
+      Create_Shortcuts --> OneLake_Location
+    end
+
+    subgraph "Lakehouse Explorer"
+      Lakehouse_Explorer --> Files_Folders
+      Lakehouse_Explorer --> Shortcuts_Tables
+      Lakehouse_Explorer --> View_Contents
+    end
+  end
+  ```
 
 ### Key Benefits of a Lakehouse
 
