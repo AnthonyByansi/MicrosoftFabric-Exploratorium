@@ -8,7 +8,7 @@
 
 ## Table of Contents 📑
 
-1. [Introduction](#introduction)
+1. [Introduction](#introduction-)
 2. [Lakehouses and Spark Integration](#lakehouses-and-spark-integration)
 3. [Data Integration and Dataflows](#data-integration-and-dataflows)
 4. [Data Warehousing and Real-Time Analytics](#data-warehousing-and-real-time-analytics)
