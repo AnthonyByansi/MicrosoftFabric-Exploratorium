@@ -9,15 +9,15 @@
 ## Table of Contents 📑
 
 1. [Introduction](#introduction-)
-2. [Lakehouses and Spark Integration](#lakehouses-and-spark-integration)
-3. [Data Integration and Dataflows](#data-integration-and-dataflows)
-4. [Data Warehousing and Real-Time Analytics](#data-warehousing-and-real-time-analytics)
-5. [Data Science and Machine Learning](#data-science-and-machine-learning)
-6. [Administration and Governance](#administration-and-governance)
-7. [Advanced Techniques and Use Cases](#advanced-techniques-and-use-cases)
-8. [Visual and Interactive Learning](#visual-and-interactive-learning)
-9. [Collaborative Learning and Peer Engagement](#collaborative-learning-and-peer-engagement)
-10. [Continuous Learning and Updates](#continuous-learning-and-updates)
+2. [Lakehouses and Spark Integration](#lakehouses-and-spark-integration-)
+3. [Data Integration and Dataflows](#data-integration-and-dataflows-)
+4. [Data Warehousing and Real-Time Analytics](#data-warehousing-and-real-time-analytics-)
+5. [Data Science and Machine Learning](#data-science-and-machine-learning-)
+6. [Administration and Governance](#administration-and-governance-)
+7. [Advanced Techniques and Use Cases](#advanced-techniques-and-use-cases-)
+8. [Visual and Interactive Learning](#visual-and-interactive-learning-)
+9. [Collaborative Learning and Peer Engagement](#collaborative-learning-and-peer-engagement-)
+10. [Continuous Learning and Updates](#continuous-learning-and-updates-)
 
 
 ## Repository Structure 📁
