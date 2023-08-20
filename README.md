@@ -52,7 +52,7 @@ Explore Synapse Data Warehouse and Real-Time Analytics for querying and analyzin
 
 ## Data Science and Machine Learning 🤖
 
-Unlock the potential of data science with Azure Machine Learning and Spark integration. Build, train, and deploy machine learning models at scale. Access notebooks, resources, and tutorials.
+Get Started on data science with Azure Machine Learning and Spark integration. Build, train, and deploy machine learning models at scale. Access notebooks, resources, and tutorials.
 
 **Read More:** [Data Science and Machine Learning](./Data_Science_and_Machine_Learning/data_science_and_ml.md)
 
