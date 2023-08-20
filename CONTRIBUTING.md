@@ -1,4 +1,4 @@
-# Contributing to Microsoft Fabric Repository
+# Contributing to Microsoft Fabric Exploratorium
 
 Thank you for considering contributing to the Microsoft Fabric repository. We appreciate your efforts to make this project better!
 
@@ -8,7 +8,7 @@ Contributions can be made in the form of bug reports, feature requests, code imp
 
 ### 1. Opening Issues
 
-If you find a bug, have a question, or want to suggest a new feature, feel free to [open an issue](). Make sure to include relevant details such as steps to reproduce, expected behavior, and screenshots if applicable.
+If you find a bug, have a question, or want to suggest a new feature, feel free to [open an issue](https://github.com/AnthonyByansi/MicrosoftFabric-Exploratorium.git). Make sure to include relevant details such as steps to reproduce, expected behavior, and screenshots if applicable.
 
 ### 2. Feature Requests
 
