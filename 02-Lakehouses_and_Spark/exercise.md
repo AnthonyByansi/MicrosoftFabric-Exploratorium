@@ -1,4 +1,4 @@
-# Exercise: Exploring and Ingesting Data with a Microsoft Fabric Lakehouse
+# Exercise: Exploring and Ingesting Data with a Microsoft Fabric Lakehouse- Practical Scenario
 
 In this exercise, you will immerse yourself in hands-on tasks that will deepen your understanding of Microsoft Fabric Lakehouses. By actively engaging with the platform, you'll gain practical experience in creating a lakehouse, ingesting data, and exploring its features.
 
