@@ -46,8 +46,5 @@ This repository is licensed under the [MIT License](./LICENSE).
 
 **Note:** This repository is a work in progress, and more sections and content will be added over time to cover a wide range of topics related to Microsoft Fabric. Stay tuned for updates!
 
-For additional queries or support, feel free to contact us.
-
-
 
 We're excited to accompany you on this educational journey as you explore the world of Microsoft Fabric and elevate your analytics skills! 🎓
