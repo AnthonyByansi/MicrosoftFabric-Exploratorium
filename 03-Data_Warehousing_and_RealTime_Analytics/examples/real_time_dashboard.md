@@ -49,10 +49,3 @@ Enhance your dashboard's interactivity by adding filters and slicers. Users can 
 
 After creating your real-time dashboard, publish it to Power BI service to share with your team. This allows users to access the dashboard online, interact with the visuals, and gain insights collaboratively.
 
-## Conclusion
-
-By following these steps, you've successfully created a real-time dashboard that transforms your Microsoft Fabric data into actionable insights. Dashboards provide a powerful tool for decision-makers to monitor business performance, track trends, and make data-driven decisions.
-
----
-**Previous:** [Synapse Queries: Unleash the Power of Data Warehousing](synapse_queries.md)
-**Next:** [Data Warehouse Best Practices](data_warehouse_best_practices.md)
