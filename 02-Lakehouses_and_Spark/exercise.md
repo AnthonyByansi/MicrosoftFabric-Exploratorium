@@ -20,19 +20,19 @@ Imagine you're a data professional working for a retail company. The company has
 3. Utilize Dataflows (Gen2) to transform and prepare the data for analysis.
 4. Load the transformed data into tables within the Lakehouse.
 
-### Task 3: Explore Data with SQL
+### Task 3: Query Lakehouse Tables
 
-1. Connect to the SQL Endpoint of your Lakehouse using a SQL client or tool.
-2. Write Transact-SQL queries to explore the sales data:
-   - Retrieve transaction details for specific products or time periods.
-   - Calculate total sales and revenue for different categories.
-   - Identify trends in customer interactions and preferences.
+1. Access the SQL Endpoint of your Lakehouse.
+2. Write and execute Transact-SQL queries to:
+   - Retrieve sales data for a specific time period.
+   - Calculate the total revenue generated.
+   - Analyze inventory levels and identify popular products.
 
-### Task 4: Generate Insights and Reports
+### Task 4: Generate Insights and Visualizations
 
-1. Use Power BI to connect to the dataset created from your Lakehouse tables.
-2. Design meaningful visualizations that showcase key sales insights.
-3. Build interactive reports that provide a comprehensive view of the sales performance.
+1. Utilize Power BI to connect to the dataset derived from your Lakehouse tables.
+2. Build a Power BI report that visualizes the sales trends and inventory insights.
+3. Create visualizations like line charts, bar graphs, and KPIs to represent the data.
 
 ## Conclusion
 
