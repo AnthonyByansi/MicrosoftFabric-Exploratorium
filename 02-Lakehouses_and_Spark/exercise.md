@@ -38,9 +38,18 @@ Imagine you're a data professional working for a retail company. The company has
 
 Completing this exercise has provided you with practical experience in working with Microsoft Fabric Lakehouses. You've learned how to create a Lakehouse, ingest data, and use SQL for data exploration. Moreover, by utilizing Power BI, you've transformed your insights into impactful reports.
 
-Remember that this exercise serves as a stepping stone. Microsoft Fabric offers a vast range of capabilities for data professionals, enabling you to tackle diverse data challenges and drive informed decisions. By continuing to explore the platform, you'll unlock even greater potential for data-driven success.
+## Learning Outcomes
+
+By completing this exercise, you will:
+
+- Gain practical experience in creating and configuring a Microsoft Fabric Lakehouse.
+- Learn how to import data into a Lakehouse using different methods.
+- Develop the skills to write and execute Transact-SQL queries on Lakehouse tables.
+- Discover the potential of generating insights and visualizations using Power BI.
 
 ![Exercise Illustration](images/exercise_illustration.png)
 *Figure 3: Engaging in the Exercise*
 
-As you progress through this guide, embrace these exercises as opportunities to bridge the gap between theory and practice. By immersing yourself in real-world tasks, you'll develop proficiency and confidence in harnessing the power of Microsoft Fabric Lakehouses for your data endeavors.
+This exercise provides a valuable opportunity to apply the theoretical knowledge you've acquired so far. By actively engaging with a Microsoft Fabric Lakehouse and performing real tasks, you'll enhance your understanding and competence in managing and analyzing data within this innovative environment.
+
+**Note:** Please refer to the provided dataset and resources to complete this exercise effectively.
