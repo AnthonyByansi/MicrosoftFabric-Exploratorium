@@ -4,13 +4,13 @@ Here are some additional resources to help you get started with Microsoft Fabric
 
 ## Microsoft Learn Tutorials
 
-1. [Getting Started with Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/getting-started)
+1. [Getting Started with Microsoft Fabric](https://learn.microsoft.com/training/paths/get-started-fabric/?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352)
    A comprehensive tutorial to kickstart your journey with Microsoft Fabric. Learn how to set up your environment, navigate the interface, and begin working with lakehouses.
 
-2. [Introduction to Lakehouses](https://learn.microsoft.com/en-us/fabric/introduction-to-lakehouses)
+2. [Introduction to Lakehouses](https://learn.microsoft.com/training/modules/get-started-lakehouses/?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352)
    Dive deeper into the concept of lakehouses, exploring their benefits and how they combine the strengths of data lakes and data warehouses.
 
-3. [Exploring Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/introduction)
+3. [Exploring Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/introduction?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352)
    Learn how to use Azure Data Factory to create data integration solutions and manage data workflows seamlessly within Microsoft Fabric.
 
 4. [Getting Started with Power Query](https://learn.microsoft.com/en-us/power-query/power-query-quickstart)
