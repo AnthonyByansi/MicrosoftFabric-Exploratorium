@@ -55,11 +55,11 @@ graph LR
 
 ## Getting Started
 
-To begin using Microsoft Fabric, refer to the official [documentation](https://fabric.docs.microsoft.com/getting-started) for comprehensive instructions on setup, usage, and best practices.
+To begin using Microsoft Fabric, refer to the official [documentation](https://learn.microsoft.com/en-us/fabric/get-started/fabric-trial) for comprehensive instructions on setup, usage, and best practices.
 
 ## Licensing
 
-Microsoft Fabric is offered under various licensing models. For detailed information about licensing options and pricing, visit the [Microsoft Fabric Pricing](https://fabric.microsoft.com/pricing) page.
+Microsoft Fabric is offered under various licensing models. For detailed information about licensing options and pricing, visit the [Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/enterprise/licenses) page.
 
 ## Support
 
