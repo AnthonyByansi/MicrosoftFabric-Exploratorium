@@ -1,6 +1,8 @@
 # Microsoft Fabric: End-to-End Analytics Platform
 
 ![Microsoft Fabric](fabric-logo.png)
+![Landscape](fabric-logo.png)
+
 
 Microsoft Fabric is a comprehensive end-to-end analytics platform designed to foster seamless collaboration between data professionals and business stakeholders. With an integrated environment, Fabric empowers users to work collectively on data projects by providing a suite of integrated services. These services encompass data ingestion, storage, processing, and advanced analysis, all within a unified ecosystem.
 
