@@ -20,7 +20,7 @@ Here are some additional resources to help you get started with Microsoft Fabric
 
 Join the Microsoft Fabric community to connect with fellow users, share experiences, and seek help:
 
-- [Microsoft Fabric Community Forum](https://community.microsoft.com/t5/fabric/ct-p/Fabric)
+- [Microsoft Fabric Community Forum](https://aka.ms/FabricUserGroups)
 - [Microsoft Fabric Support](https://fabric.support.microsoft.com/)
 
 ## Further Reading
