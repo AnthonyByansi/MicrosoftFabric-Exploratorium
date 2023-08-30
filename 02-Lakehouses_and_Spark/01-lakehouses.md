@@ -90,7 +90,7 @@ Opting for a Lakehouse solution is particularly prudent if you seek a scalable a
 
 ### Microsoft Fabric Lakehouses
 
-In the context of Microsoft Fabric, the process involves creating a lakehouse within any premium tier workspace. Once established, this lakehouse serves as the hub for your analytics endeavors. Data, encompassing a wide array of common formats, can be seamlessly loaded into the lakehouse from diverse sources such as local files, databases, or APIs. For added convenience, data ingestion can be automated through the employment of Data Factory Pipelines or Dataflows (Gen2) within the Microsoft Fabric environment. Moreover, Fabric shortcuts can be set up to access data residing in external sources, including Azure Data Lake Store Gen2 or a Microsoft OneLake location external to the lakehouse's storage. To navigate and explore the diverse data landscape, the Lakehouse Explorer provides a comprehensive view of files, folders, shortcuts, and tables directly within the Fabric platform.
+The process involves creating a lakehouse in a premium workspace, serving as the analytics hub. Data in various formats can be easily loaded from sources like files, databases, and APIs. Automation is possible via Data Factory Pipelines or Dataflows in the Microsoft Fabric environment, and external data access shortcuts can be set up. The Lakehouse Explorer offers a complete view of data within the Fabric platform.
 
 Once data is ingested into the Lakehouse, it can be subjected to exploration and transformation using powerful tools like Notebooks and Dataflows (Gen2).
 
