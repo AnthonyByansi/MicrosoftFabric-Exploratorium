@@ -27,7 +27,7 @@ graph LR
     A --> F(Data Science)
     A --> G(Business Intelligence)
 
-    B --> Z{ }
+    B --> Z{OneLake}
     C --> Z
     D --> Z
     E --> Z
