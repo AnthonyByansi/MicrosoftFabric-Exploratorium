@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="fabric-logo.png" alt="Microsoft Fabric Exploratorium" width="200"/>
+  <img src="assets/images/fabric-logo.png" alt="Microsoft Fabric Exploratorium" width="200"/>
   <h1>MicrosoftFabric-Exploratorium</h1>
   <p>Your Ultimate Guide to Mastering End-to-End Analytics with Microsoft Fabric</p>
 </div>
