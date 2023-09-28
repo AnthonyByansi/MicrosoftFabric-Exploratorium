@@ -13,7 +13,7 @@ Here are some additional resources to help you get started with Microsoft Fabric
 3. [Exploring Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/introduction?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352)
    Learn how to use Azure Data Factory to create data integration solutions and manage data workflows seamlessly within Microsoft Fabric.
 
-4. [Getting Started with Power Query](https://learn.microsoft.com/en-us/power-query/power-query-quickstart)
+4. [Getting Started with Power Query](https://learn.microsoft.com/en-us/power-query/power-query-what-is-power-query)
    This tutorial introduces you to Power Query, a powerful data transformation tool that you can use within Microsoft Fabric.
 
 ## Fabric Community and Support
