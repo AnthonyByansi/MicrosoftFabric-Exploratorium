@@ -51,7 +51,7 @@ Explore the key terms and concepts associated with Microsoft Fabric and its lake
 
 Engage with visual content to gain a richer understanding of Microsoft Fabric:
 
-- [Microsoft Fabric Explained](https://www.youtube.com/watch?v=VIDEO_ID): Watch a concise video explaining the core concepts and benefits of Microsoft Fabric.
+- [Microsoft Fabric Explained](https://www.youtube.com/watch?v=-f0XIVEP7bE&list=PLv2BtOtLblH1RhbtfTpp9ovi3Y-3HiRO2): Watch a concise video explaining the core concepts and benefits of Microsoft Fabric.
 
 - [Introduction to Azure Synapse Analytics](https://azure.microsoft.com/en-us/resources/videos/introduction-to-azure-synapse-analytics/): Explore an introductory video on Azure Synapse Analytics, Microsoft Fabric's integrated analytics service.
 
