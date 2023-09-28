@@ -67,5 +67,3 @@ Microsoft Fabric is offered under various licensing models. For detailed informa
 For technical assistance and support related inquiries, please reach out to our [Microsoft Fabric Support](https://fabric.microsoft.com/support) team.
 
 ---
-
-For a visual representation of Microsoft Fabric's features and services, please refer to the following image: ![Microsoft Fabric Image](https://example.com/fabric_image.png)
