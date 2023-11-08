@@ -52,7 +52,7 @@ graph LR
 
 - **Simplicity:** Fabric's user-friendly interface and intuitive tools make it accessible to both citizen data practitioners and professional data experts, enabling everyone to contribute effectively to data projects.
 
-- **Scalability:** Built on Microsoft's robust cloud infrastructure, Fabric is equipped to handle data projects of any scale, from small exploratory analyses to large-scale enterprise solutions.
+- **Scalability:** Built on Microsoft's robust cloud infrastructure, Fabric is equipped to handle data projects of any scale, from small exploratory analysis to large-scale enterprise solutions.
 
 ## Getting Started
 
